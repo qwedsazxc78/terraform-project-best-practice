@@ -1,0 +1,3 @@
+output "GCP_PROJECT" {
+  GCP_PROJECT = var.GCP_PROJECT
+}
