@@ -1,6 +1,8 @@
-<!-- language: lang-en -->
 # Terraform project best practice
 
+[English version](https://github.com/qwedsazxc78/terraform-project-best-practice/blob/main/doc/README-en.md) / [中文版本](https://github.com/qwedsazxc78/terraform-project-best-practice/blob/main/doc/README-zh.md)
+
+<!-- language: lang-en -->
 ## The Terraform Best Practices Template is a widely accepted standard project structure that can reduce errors and improve readability
 
 ### project root directory: types of folders that should be placed in the project
@@ -28,6 +30,8 @@ Variable Override | Variable lookup table to store sensitive data locally and no
 Variable Override Example | Example variable lookup table to inform other developers which variables are used | application/terraform.tfvars.example
 
 <!-- language: lang-zh -->
+# Terraform project best practice
+
 ## Terraform 最佳模板是一個被廣泛接受的標準專案結構，可以減少錯誤和提高可讀性
 
 ### 專案根目錄：專案應該放置的資料夾類型
