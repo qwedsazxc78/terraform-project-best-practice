@@ -1,4 +1,4 @@
-<!-- language: lang-zh -->
+<!-- language: lang-en -->
 # Terraform project best practice
 
 ## The Terraform Best Practices Template is a widely accepted standard project structure that can reduce errors and improve readability
@@ -27,6 +27,7 @@ Code | Corresponding code based on resource generation order | application/3-gke
 Variable Override | Variable lookup table to store sensitive data locally and not upload to git | application/terraform.tfvars
 Variable Override Example | Example variable lookup table to inform other developers which variables are used | application/terraform.tfvars.example
 
+<!-- language: lang-zh -->
 ## Terraform 最佳模板是一個被廣泛接受的標準專案結構，可以減少錯誤和提高可讀性
 
 ### 專案根目錄：專案應該放置的資料夾類型
